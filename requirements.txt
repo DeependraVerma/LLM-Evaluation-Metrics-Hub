@@ -5,3 +5,5 @@ bert-score
 transformers
 torch
 nltk
+textstat
+vaderSentiment
